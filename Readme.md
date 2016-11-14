@@ -60,7 +60,7 @@ Le jury pose des questions supplémentaires aux candidats.
 
 # Répartition des équipes
 ## DDCSPP
-* Bernard Abdul - Julien Ghaffar
+* Abdul - Julien Ghaffar
 * Thomas - Gael
 
 ## La Bouée Corsaire
@@ -69,7 +69,7 @@ Le jury pose des questions supplémentaires aux candidats.
 
 ## Face
 * Rebecca Valentin - Floryan Nabil
-* Solène Miguel - Ronald Patrùice
+* Solène Miguel - Ronald Patrice
 
 # 2Tech
 * Redfish - Tyjow
