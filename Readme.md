@@ -57,3 +57,25 @@ Un questionnement complémentaire lui permet d’évaluer les compétences qui n
 Le jury pose des questions supplémentaires aux candidats.
 
 
+
+# Répartition des équipes
+## DDCSPP
+* Bernard Abdul - Julien Ghaffar
+* Thomas - Gael
+
+## La Bouée Corsaire
+* Antoine Stéphane - JP Annie-Line
+* Youness Juliette - Latifa Lise
+
+## Face
+* Rebecca Valentin - Floryan Nabil
+* Solène Miguel - Ronald Patrùice
+
+# 2Tech
+* Redfish - Tyjow
+
+# Planning
+Pour Mercredi de la semaine prochaine :
+ * Rédaction du cahier des charges
+ * Définition du planning
+ * Présentation du projet
